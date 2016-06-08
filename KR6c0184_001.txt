@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:30.389254
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:59
 #+TITLE: 般若心經論
 #+PROPERTY: CBETA_ID X26n0565
 #+PROPERTY: ID KR6c0184
